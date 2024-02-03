@@ -14,7 +14,7 @@ indent_size = 2
 [*.md]
 indent_size = 2
 
-[tests/*.txt]
+[tests/**/*.txt]
 charset = unset
 end_of_line = unset
 insert_final_newline = unset
